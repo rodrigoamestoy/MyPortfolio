@@ -47,5 +47,4 @@ document.addEventListener('DOMContentLoaded', () => {
     github.addEventListener('click', () => {
         window.open('https://github.com/rodrigoamestoy', '_blank')
     });
-    
 });
